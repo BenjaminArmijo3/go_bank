@@ -1,0 +1,6 @@
+env: "local"
+migrations_path: "db/migrations"
+database_url: "postgresql://postgres.xktxheynqddvzpkydlwe:d-WMR%21J%23C3u4T-C@aws-0-sa-east-1.pooler.supabase.com:6543/postgres"
+signing_key: "asdfasdfasdf12312314"
+http_server:
+  address: "localhost:8080"

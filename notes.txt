@@ -1,0 +1,19 @@
+BANK APP
+
+
+funcs:
+    - auth
+    - account
+    - transfers
+
+endpoints:
+    - api/auth/sign-in
+    - api/auth/sign-up
+    - api/account/{id}
+    - api/account/{id}/trasfer
+
+
+models:
+    - Account
+
+    - Transfer
